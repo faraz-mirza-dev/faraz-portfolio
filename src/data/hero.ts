@@ -14,5 +14,5 @@ export const heroData: HeroData = {
     label: "",
     href: "",
   },
-  image: "/img/faraz-hero.webp",
+  image: "/faraz-portfolio/img/faraz-hero.webp",
 };

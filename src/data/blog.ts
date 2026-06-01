@@ -31,7 +31,7 @@ export const blogPosts: BlogPost[] = [
     category: "wordpress, business, economy, design",
     excerpt:
       "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore...",
-    image: "/img/blog/blog-post-1.jpg",
+    image: "/faraz-portfolio/img/blog/blog-post-1.jpg",
     author: "steve",
     readTime: "5 min read",
     content: DEFAULT_BLOG_ARTICLE_HTML,
@@ -46,7 +46,7 @@ export const blogPosts: BlogPost[] = [
     category: "wordpress, business, economy, design",
     excerpt:
       "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore...",
-    image: "/img/blog/blog-post-2.jpg",
+    image: "/faraz-portfolio/img/blog/blog-post-2.jpg",
     author: "steve",
     readTime: "5 min read",
     content: DEFAULT_BLOG_ARTICLE_HTML,
@@ -61,7 +61,7 @@ export const blogPosts: BlogPost[] = [
     category: "wordpress, business, economy, design",
     excerpt:
       "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore...",
-    image: "/img/blog/blog-post-3.jpg",
+    image: "/faraz-portfolio/img/blog/blog-post-3.jpg",
     author: "steve",
     readTime: "5 min read",
     content: DEFAULT_BLOG_ARTICLE_HTML,
@@ -76,7 +76,7 @@ export const blogPosts: BlogPost[] = [
     category: "wordpress, business, economy, design",
     excerpt:
       "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore...",
-    image: "/img/blog/blog-post-4.jpg",
+    image: "/faraz-portfolio/img/blog/blog-post-4.jpg",
     author: "steve",
     readTime: "5 min read",
     content: DEFAULT_BLOG_ARTICLE_HTML,
@@ -91,7 +91,7 @@ export const blogPosts: BlogPost[] = [
     category: "wordpress, business, economy, design",
     excerpt:
       "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore...",
-    image: "/img/blog/blog-post-5.jpg",
+    image: "/faraz-portfolio/img/blog/blog-post-5.jpg",
     author: "steve",
     readTime: "5 min read",
     content: DEFAULT_BLOG_ARTICLE_HTML,
@@ -106,7 +106,7 @@ export const blogPosts: BlogPost[] = [
     category: "wordpress, business, economy, design",
     excerpt:
       "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore...",
-    image: "/img/blog/blog-post-6.jpg",
+    image: "/faraz-portfolio/img/blog/blog-post-6.jpg",
     author: "steve",
     readTime: "5 min read",
     content: DEFAULT_BLOG_ARTICLE_HTML,
@@ -121,7 +121,7 @@ export const blogPosts: BlogPost[] = [
     category: "wordpress, business, economy, design",
     excerpt:
       "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore...",
-    image: "/img/blog/blog-post-1.jpg",
+    image: "/faraz-portfolio/img/blog/blog-post-1.jpg",
     author: "steve",
     readTime: "6 min read",
     content: DEFAULT_BLOG_ARTICLE_HTML,
@@ -136,7 +136,7 @@ export const blogPosts: BlogPost[] = [
     category: "wordpress, business, economy, design",
     excerpt:
       "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore...",
-    image: "/img/blog/blog-post-2.jpg",
+    image: "/faraz-portfolio/img/blog/blog-post-2.jpg",
     author: "steve",
     readTime: "4 min read",
     content: DEFAULT_BLOG_ARTICLE_HTML,
@@ -151,7 +151,7 @@ export const blogPosts: BlogPost[] = [
     category: "wordpress, business, economy, design",
     excerpt:
       "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore...",
-    image: "/img/blog/blog-post-3.jpg",
+    image: "/faraz-portfolio/img/blog/blog-post-3.jpg",
     author: "steve",
     readTime: "5 min read",
     content: DEFAULT_BLOG_ARTICLE_HTML,

@@ -180,17 +180,17 @@ function SlideshowFigcaption({ project }: { project: Project }): ReactElement {
 const SLIDESHOW_NAV_ITEMS = [
   {
     className: "icon nav-prev",
-    src: "/img/projects/navigation/left-arrow.png",
+    src: "/faraz-portfolio/img/projects/navigation/left-arrow.png",
     alt: "previous" as const,
   },
   {
     className: "icon nav-next",
-    src: "/img/projects/navigation/right-arrow.png",
+    src: "/faraz-portfolio/img/projects/navigation/right-arrow.png",
     alt: "next" as const,
   },
   {
     className: "nav-close",
-    src: "/img/projects/navigation/close-button.png",
+    src: "/faraz-portfolio/img/projects/navigation/close-button.png",
     alt: "close" as const,
   },
 ] as const;

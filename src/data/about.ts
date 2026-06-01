@@ -14,14 +14,14 @@ export const aboutData: AboutData = {
   description: [
     "Feel free to get in touch with me. I am always open to discussing new projects, creative ideas or opportunities to be part of your visions.",
   ],
-  image: "/img/img-mobile.jpg",
+  image: "/faraz-portfolio/img/img-mobile.jpg",
   stats: [
     { value: "12", label: "years of experience" },
     { value: "97", label: "completed projects" },
     { value: "81", label: "Happy customers" },
     { value: "53", label: "awards won" },
   ],
-  cvLink: "/img/sample.pdf",
+  cvLink: "/faraz-portfolio/img/sample.pdf",
 };
 
 /** Personal info columns (home “more about me” modal + About page hero) */
