@@ -5,5 +5,4 @@ export const navItems: NavItem[] = [
   { label: "About", href: "/about", icon: "fa-user" },
   { label: "Portfolio", href: "/portfolio", icon: "fa-briefcase" },
   { label: "Contact", href: "/contact", icon: "fa-envelope-open" },
-  { label: "Blog", href: "/blog", icon: "fa-comments" },
 ];

@@ -7,7 +7,7 @@ export default function ClientInit(): null {
   useAOS();
 
   useLayoutEffect(() => {
-    const pageClasses = ["home", "about", "portfolio", "contact", "blog", "blog-post"];
+    const pageClasses = ["home", "about", "portfolio", "contact"];
     const body = document.body;
 
     pageClasses.forEach((cls) => body.classList.remove(cls));
@@ -30,16 +30,6 @@ export default function ClientInit(): null {
 
     if (pathname === "/contact") {
       body.classList.add("contact");
-      return;
-    }
-
-    if (pathname.startsWith("/blog/")) {
-      body.classList.add("blog-post");
-      return;
-    }
-
-    if (pathname === "/blog") {
-      body.classList.add("blog");
       return;
     }
   }, [pathname]);
