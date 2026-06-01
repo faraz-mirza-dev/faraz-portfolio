@@ -7,6 +7,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: "/faraz-portfolio/",
   plugins: [react()],
   resolve: {
     alias: {
