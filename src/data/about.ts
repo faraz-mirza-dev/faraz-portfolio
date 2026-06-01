@@ -30,18 +30,14 @@ export const personalInfo: {
   right: PersonalInfoEntry[];
 } = {
   left: [
-    { label: "first name", value: "Steve" },
-    { label: "Age", value: "27 Years" },
-    { label: "Freelance", value: "Available", emphasis: "available" },
-    { label: "phone", value: "+21621184010" },
-    { label: "Skype", value: "steve.milner" },
+    { label: "first name", value: "Faraz" },
+    { label: "Nationality", value: "India" },
+    { label: "phone", value: "+917017625309" },
   ],
   right: [
-    { label: "last name", value: "Milner" },
-    { label: "Nationality", value: "Tunisian" },
-    { label: "Address", value: "Tunis" },
-    { label: "Email", value: "you@mail.com" },
-    { label: "langages", value: "French, English" },
+    { label: "last name", value: "Mirza" },
+    { label: "Address", value: "Kamla Nagar" },
+    { label: "Email", value: "farazmirza1110@gmail.com" },
   ],
 };
 
