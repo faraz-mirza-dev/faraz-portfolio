@@ -8,7 +8,6 @@ export default function ThemeToggle() {
   return (
     <div
       id="showSwitcher"
-      className="styleSecondColor"
       role="button"
       tabIndex={0}
       onClick={toggleTheme}

@@ -70,9 +70,6 @@ body.light.blog .page-link:hover,
 	background-color: var(--skin-accent);
 	border-color: var(--skin-accent);
 }
-.footer-wrapper p a {
-	color: var(--skin-accent);
-}
 button.button {
 	border: 1px solid var(--skin-accent);
 }

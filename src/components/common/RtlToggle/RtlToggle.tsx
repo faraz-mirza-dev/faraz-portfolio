@@ -6,7 +6,6 @@ export default function RtlToggle() {
   return (
     <div
       id="showRtlSwitcher"
-      className="styleSecondColor"
       role="button"
       tabIndex={0}
       onClick={() => {

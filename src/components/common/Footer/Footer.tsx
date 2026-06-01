@@ -4,7 +4,7 @@ export default function Footer() {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="footer-wrapper">
+    <footer>
       <FadeInMount delay={0.12}>
         <p>
           Copyright © {year}{" "}
